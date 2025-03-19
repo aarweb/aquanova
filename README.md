@@ -1,5 +1,9 @@
 # AquaNova - A Fresh and Modern Theme for VSCode
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/aarweb/aquanova/main/logo.png" alt="Logo" width="200"/>
+</div>
+
 **AquaNova** is a carefully designed theme for Visual Studio Code, inspired by vibrant shades of turquoise and teal. It offers a modern and relaxing visual experience, ideal for programmers seeking a balance between aesthetics and readability.
 
 ## 🎨 Key Features
@@ -12,15 +16,16 @@
 ## 🖼️ Preview
 ### **Dark Mode**
 * C# Example
-![AquaNova Dark Mode](public\img\csharpexample.png)
+![AquaNova Dark Mode Csharp](https://raw.githubusercontent.com/aarweb/aquanova/main/public/img/csharpexample.png)
 * Python Example
-![AquaNova Dark Mode](public\img\pythonexample.png)
+![AquaNova Dark Mode Python](https://raw.githubusercontent.com/aarweb/aquanova/main/public/img/pythonexample.png)
 * PHP Example
-![AquaNova Dark Mode](public\img\phpexample.png)
+![AquaNova Dark Mode PHP](https://raw.githubusercontent.com/aarweb/aquanova/main/public/img/phpexample.png)
 * JavaScript Example
-![AquaNova Dark Mode](public\img\jsexample.png)
+![AquaNova Dark Mode JS](https://raw.githubusercontent.com/aarweb/aquanova/main/public/img/jsexample.png)
 * Rust Example
-![AquaNova Dark Mode](public\img\rustexample.png)
+![AquaNova Dark Mode Rust](https://raw.githubusercontent.com/aarweb/aquanova/main/public/img/rustexample.png)
+
 
 ### **Light Mode** *(Coming Soon)*
 
