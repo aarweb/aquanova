@@ -3,6 +3,7 @@
   "displayName": "AquaNova",
   "description": "AquaNova is a beautifully crafted VSCode theme inspired by vibrant turquoise tones. This color scheme provides a refreshing and modern canvas for your code.",
   "version": "0.0.1",
+  "publisher": "aarmagic",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -17,5 +18,22 @@
         "path": "./themes/AquaNova.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aarweb/aquanova"
+  },
+  "homepage": "https://github.com/aarweb/aquanova",
+  "bugs": {
+    "url": "https://github.com/aarweb/aquanova/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "vscode-theme",
+    "dark-theme",
+    "aquanova",
+    "turquoise"
+  ],
+  "icon": "icon.png"
 }
