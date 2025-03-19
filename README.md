@@ -1,47 +1,53 @@
-# AquaNova - Un Tema Fresco y Moderno para VSCode
+# AquaNova - A Fresh and Modern Theme for VSCode
 
-![AquaNova Banner](https://via.placeholder.com/1000x300?text=AquaNova+Theme)
+**AquaNova** is a carefully designed theme for Visual Studio Code, inspired by vibrant shades of turquoise and teal. It offers a modern and relaxing visual experience, ideal for programmers seeking a balance between aesthetics and readability.
 
-**AquaNova** es un tema cuidadosamente diseñado para Visual Studio Code, inspirado en tonos vibrantes de turquesa y verde-azulado. Ofrece una experiencia visual moderna y relajante, ideal para programadores que buscan un equilibrio entre estética y legibilidad.
+## 🎨 Key Features
+✅ Color palette optimized for readability and contrast.  
+✅ Full support for popular languages like C#, JavaScript, TypeScript, Python, HTML, CSS, Rust, PHP, Java, and more.  
+✅ Designed to minimize visual fatigue with soft yet vibrant colors.  
+✅ Compatible with **Material Theme Icons** and other popular icon packs.  
+✅ Perfect for web development, cybersecurity, and general programming.  
 
-## 🎨 Características Clave
-✅ Paleta de colores optimizada para la legibilidad y el contraste.  
-✅ Soporte completo para lenguajes populares como C#, JavaScript, TypeScript, Python, HTML, CSS y más.  
-✅ Diseñado para minimizar la fatiga visual con colores suaves pero vibrantes.  
-✅ Compatible con **Iconos de Material Theme** y otros packs de iconos populares.  
-✅ Perfecto para desarrollo web, ciberseguridad y programación en general.  
+## 🖼️ Preview
+### **Dark Mode**
+* C# Example
+![AquaNova Dark Mode](public\img\csharpexample.png)
+* Python Example
+![AquaNova Dark Mode](public\img\pythonexample.png)
+* PHP Example
+![AquaNova Dark Mode](public\img\phpexample.png)
+* JavaScript Example
+![AquaNova Dark Mode](public\img\jsexample.png)
+* Rust Example
+![AquaNova Dark Mode](public\img\rustexample.png)
 
-## 🖼️ Vista Previa
-### **Modo Oscuro (Dark Mode)**
-![AquaNova Dark Mode](https://via.placeholder.com/800x450?text=Dark+Mode+Preview)
+### **Light Mode** *(Coming Soon)*
 
-### **Modo Claro (Light Mode)** *(Próximamente)*
+## 🚀 Installation
+1. Open **Visual Studio Code**.
+2. Go to **Extensions** (`Ctrl+Shift+X`).
+3. Search for `AquaNova`.
+4. Click on **Install**.
+5. Activate the theme from `Preferences > Color Theme > AquaNova`.
 
-## 🚀 Instalación
-1. Abre **Visual Studio Code**.
-2. Ve a **Extensiones** (`Ctrl+Shift+X`).
-3. Busca `AquaNova`.
-4. Haz clic en **Instalar**.
-5. Activa el tema desde `Preferencias > Tema de Color > AquaNova`.
-
-## ⚙️ Personalización
-Puedes personalizarlo con tu configuración de usuario:
+## ⚙️ Customization
+You can customize it with your user settings:
 ```json
 "workbench.colorTheme": "AquaNova"
 ```
 
+## 📌 Why Choose AquaNova?
+🔹 Modern and fresh design.  
+🔹 Ideal for frontend and backend developers.  
+🔹 Inspired by natural colors to improve concentration.  
+🔹 Compatible with VSCode and other development tools.  
 
-## 📌 ¿Por qué Elegir AquaNova?
-🔹 Diseño moderno y fresco.  
-🔹 Ideal para programadores de frontend y backend.  
-🔹 Inspirado en colores naturales para mejorar la concentración.  
-🔹 Compatible con VSCode y otras herramientas de desarrollo.  
+## 🛠️ Contribute
+If you have ideas or improvements, your help is welcome! Open an [issue](https://github.com/tuusuario/AquaNova/issues) or send a PR.  
 
-## 🛠️ Contribuye
-Si tienes ideas o mejoras, ¡tu ayuda es bienvenida! Abre un [issue](https://github.com/tuusuario/AquaNova/issues) o envía un PR.  
-
-## 📜 Licencia
-Este tema está bajo la licencia **MIT**.
+## 📜 License
+This theme is under the **MIT** license.
 
 ---
-✨ **Dale una nueva vida a tu editor con AquaNova.** ¡Descárgalo ahora y transforma tu experiencia de desarrollo! 🚀
+✨ **Give your editor a new life with AquaNova.** Download it now and transform your development experience! 🚀
