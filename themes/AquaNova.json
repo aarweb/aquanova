@@ -220,7 +220,7 @@
 		"merge.incomingContentBackground": "#223d47",
 		"merge.commonHeaderBackground": "#383838",
 		"merge.commonContentBackground": "#282828",
-		
+		"quickInput.border": "#187d62",
 		"editorSuggestWidget.background": "#18342c",
 		"editorSuggestWidget.border": "#383838",
 		"editorSuggestWidget.foreground": "#bababa",
@@ -243,7 +243,7 @@
 		"peekViewTitle.background": "#211c36",
 		"peekViewTitleDescription.foreground": "#ccccccb3",
 		"peekViewTitleLabel.foreground": "#ffffff",
-		"icon.foreground": "#0c0c0c",
+		"icon.foreground": "#28d7a6",
 		"checkbox.background": "#3c3c3c",
 		"checkbox.foreground": "#cccccc",
 		"checkbox.border": "#00000000",

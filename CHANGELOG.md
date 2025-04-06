@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.5] - 2025-04-06
+
+### Changed
+- Updated the color of icons for better visibility and consistency.
+
 ## [0.0.4] - 2025-04-05
 
 ### Changed
